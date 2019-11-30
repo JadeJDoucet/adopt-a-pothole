@@ -1,6 +1,6 @@
 # Adopt-A-Pothole
 
-> A crowdfunding application whose mission is to restore the streets of New Orleans plagued with potholes.
+> A crowdfunding application which enables New Orleans residents to report and donate to repair potholes in their area.
 
 ## Team
 
